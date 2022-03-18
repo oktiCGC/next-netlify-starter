@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="CODEIN DREAMERS" />
         <p className="description">
-          Cucumber Gang Collective
+          OKTI X LIL RETAR
         </p>
       </main>
 
