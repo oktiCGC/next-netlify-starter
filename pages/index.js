@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="CD CD CD CD CD" />
+        <Header title="CODEIN DREAMERS" />
         <p className="description">
           Cucumber Gang Collective
         </p>
