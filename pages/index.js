@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="CD CD CD CD Cd" />
+        <Header title="CD CD CD CD CD" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Cucumber Gang Collective
         </p>
       </main>
 
