@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
     <body style="background-color:grey;">
-        <Header title="CODEIN DREAMERS" />
+        <Header title="CODEINE DREAMERS" />
         <p className="description">
           OKTI X LIL RETAR
         </p>
